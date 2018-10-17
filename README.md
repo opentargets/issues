@@ -12,3 +12,4 @@ The project code is distributed across several repos, the most relevant of which
 * [webapp](https://github.com/opentargets/webapp): the front-end angularjs app
 * [rest_api](https://github.com/opentargets/rest_api): the rest api (used by webapp, but can also be used independently; [docs](http://api.opentargets.io/v3/platform/docs))
 * [opentargets-py](https://github.com/opentargets/opentargets-py): a python client for the rest api
+* [data-pipeline](https://github.com/opentargets/data_pipeline): the pipeline to generate the OT data
