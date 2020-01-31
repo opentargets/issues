@@ -1,5 +1,7 @@
 # Open Targets Platform
-This repo is the issue tracker for the Open Targets Platform project. **All issues should be raised here.**
+This repo is the **issue tracker** for the Open Targets Platform project. **All issues should be raised here.**
+
+Additional metadata about tickets, roadmap and priorities is available via [Zenhub](https://www.zenhub.com)
 
 ## Site
 Go to the [Open Targets Platform site](https://www.targetvalidation.org/).
