@@ -11,7 +11,6 @@ Go to the [Open Targets Platform docs](https://docs.targetvalidation.org/).
 
 ## Other relevant repos
 The project code is distributed across several repos, the most relevant of which are:
-* [webapp](https://github.com/opentargets/webapp): the front-end angularjs app
-* [rest_api](https://github.com/opentargets/rest_api): the rest api (used by webapp, but can also be used independently; [docs](http://api.opentargets.io/v3/platform/docs))
-* [opentargets-py](https://github.com/opentargets/opentargets-py): a python client for the rest api
-* [data-pipeline](https://github.com/opentargets/data_pipeline): the pipeline to generate the OT data
+* [platform-app](https://github.com/opentargets/platform-app): the front-end app
+* [GraphQL api](https://github.com/opentargets/platform-api-beta): the GraphQL api (used by platform-app, but can also be used independently; [docs](https://platform-docs.opentargets.org/data-access/graphql-api))
+* [docs](https://platform-docs.opentargets.org/infrastructure): the pipeline to generate the OT data
