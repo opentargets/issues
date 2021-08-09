@@ -4,10 +4,10 @@ This repo is the **issue tracker** for the Open Targets Platform project. **All 
 Additional metadata about tickets, roadmap and priorities is available via [Zenhub](https://www.zenhub.com)
 
 ## Site
-Go to the [Open Targets Platform site](https://www.targetvalidation.org/).
+Go to the [Open Targets Platform site](https://platform.opentargets.org/).
 
 ## Docs
-Go to the [Open Targets Platform docs](https://docs.targetvalidation.org/).
+Go to the [Open Targets Platform docs](https://platform-docs.opentargets.org/).
 
 ## Other relevant repos
 The project code is distributed across several repos, the most relevant of which are:
