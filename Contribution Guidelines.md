@@ -6,7 +6,7 @@ Open Targets follows the usual open source project conventions for external cont
 
 1. Find an [issue](https://github.com/opentargets/platform/issues?q=is%3Aissue+is%3Aopen) you are interested in addressing or a [feature](https://github.com/opentargets/platform/labels/Kind%3A%20New%20feature) you would like to help building in the [issue tracker repo](https://github.com/opentargets/platform). Consider posting in the issue to inform us about the work you are doing.
 
-2. Fork the relevant repository to your GitHub account. Take a look at the [Development](../README.md#development) section of the readme for more information on how to get the development environment started.
+2. Fork the relevant repository to your GitHub account.
 
 3. Create a new branch for your work using `git checkout -b branch-name-here`.
 
