@@ -1,4 +1,4 @@
-# Open Targets Platform
+# Open Targets Platform & Open Targets Genetics
 This repo is the **issue tracker** for the Open Targets Platform and Open Targets Genetics projects. **All issues should be raised here.**
 
 Additional metadata about tickets, roadmap and priorities is available via [Zenhub](https://www.zenhub.com)
