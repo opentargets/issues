@@ -9,6 +9,7 @@ Go to the [Open Targets Genetics site](https://genetics.opentargets.org/).
 
 ## Docs
 Go to the [Open Targets Platform docs](https://platform-docs.opentargets.org/).
+
 Go to the [Open Targets Genetics docs](https://genetics-docs.opentargets.org/).
 
 ## Other relevant repos
