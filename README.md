@@ -1,4 +1,4 @@
-# Open Targets Platform & Open Targets Genetics
+# Open Targets Platform
 This repo is the **issue tracker** for the Open Targets Platform. **All issues across Open Targets Platform should be raised here!**
 
 Do you have questions for us? Ask on [Open Targets Community](https://community.opentargets.org/)!
